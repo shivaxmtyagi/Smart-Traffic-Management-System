@@ -87,7 +87,7 @@ dashboard/index.html         live monitor, manual controls, analytics
 ## Getting started
 
 ```bash
-git clone https://github.com/rahulmishra4591-hub/Smart-Traffic-Management-System.git
+git clone https://github.com/shivaxmtyagi/Smart-Traffic-Management-System.git
 cd Smart-Traffic-Management-System
 
 python -m venv venv
